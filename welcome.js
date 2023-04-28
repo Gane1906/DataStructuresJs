@@ -1,1 +1,1 @@
-console.log("Welcome to Array problems using Js");
+console.log("Welcome to DataStructure problems using Js");
